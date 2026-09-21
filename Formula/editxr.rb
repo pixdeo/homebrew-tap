@@ -1,9 +1,9 @@
 class Editxr < Formula
   desc "Minimalist Markdown editor for the terminal"
   homepage "https://editxr.org"
-  url "https://github.com/pixdeo/editxr/releases/download/v1.7.0/editxr-v1.7.0-macos-universal.zip"
-  sha256 "47d2663fb84ba3cb5fd5e2fcde66cacbb450d73aaecec2956c626e1497f710f0"
-  version "1.7.0"
+  url "https://github.com/pixdeo/editxr/releases/download/v1.8.0/editxr-v1.8.0-macos-universal.zip"
+  sha256 "1c4db4b4165ba1c68d8a0f92edeeff1930300d217111a2f3e15d37d111aa187f"
+  version "1.8.0"
   license "MIT"
 
   # Prebuilt Developer ID-signed, notarised universal (arm64 + x86_64) binary.
